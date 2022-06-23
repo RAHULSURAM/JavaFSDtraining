@@ -1,0 +1,12 @@
+package DateTimeExp;
+
+import java.time.LocalTime;
+
+public class DateTime {
+	
+	public static void main(string[] args) {
+		LocalTime currenttime=LocalTime.now();
+		System.out.println(currenttime);
+	}
+
+}

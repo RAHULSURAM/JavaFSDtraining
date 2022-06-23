@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\JavaFSDtrainings\.metadata\.plugins\org.eclipse.jdt.core
+4043980022.index
+556721289.index
+1776165370.index
+882287767.index
+1924586836.index
+713941633.index
+1865797976.index

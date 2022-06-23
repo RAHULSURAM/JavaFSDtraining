@@ -1,0 +1,23 @@
+package DateTimeExp;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.OffsetTime;
+
+public class DateTime {
+	
+	public static void main(String[] args) {
+		LocalTime currenttime=LocalTime.now();
+		System.out.println(currenttime);
+		
+		LocalDateTime currdate = LocalDateTime.now();
+		System.out.println(currdate);
+		
+		OffsetTime tokyoTime = OffsetTime.now();
+		System.out.println(tokyoTime);
+		
+	}
+	
+
+}

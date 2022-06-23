@@ -1,0 +1,13 @@
+package com.iBanking.Functionalinterface;
+
+public class LoanProcessorClient {
+	
+	Loan loan =new GoldLoanImpl();
+	loan.createLoan();
+	
+	Loan loanlan = () -> {
+       return "jhbfyubgv";
+    		   
+    		  
+}
+	loanlan.CreateLoan();

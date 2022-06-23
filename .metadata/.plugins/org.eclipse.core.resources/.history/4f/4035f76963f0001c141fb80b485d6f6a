@@ -1,0 +1,27 @@
+package com.iBanking.Functionalinterface;
+
+public class LoanProcessorClient {
+	
+	
+	public static void main(String args[]) {
+	Loan loanlan = () -> {
+		System.out.println("gfvjkeagfjhv");
+       return "jhbfyubgv";
+       
+	}	;
+    loanlan.createLoan();		
+    
+    Loan loanlangl = () -> {
+		System.out.println("GLLLLvjkeagfjhv");
+       return "jhbfyubgv";
+       
+	}	;
+    loanlangl.createLoan();	
+
+    LoanCalculatorImpl LoanCalculatorImpl= new LoanCalculatorImpl();
+    LoanCalculatorImpl.highAmountwithName(loanlan);
+    LoanCalculatorImpl.highAmountwithGender(loanlan);
+	}
+	
+}
+	

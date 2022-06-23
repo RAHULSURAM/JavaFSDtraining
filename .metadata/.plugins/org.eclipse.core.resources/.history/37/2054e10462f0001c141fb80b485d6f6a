@@ -1,0 +1,5 @@
+package com.iBanking.Functionalinterface;
+
+public class LoanCalculatorImpl {
+
+}

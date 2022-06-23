@@ -1,0 +1,18 @@
+package DateTimeExp;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
+
+public class DateTime {
+	
+	public static void main(String[] args) {
+		LocalTime currenttime=LocalTime.now();
+		System.out.println(currenttime);
+		
+		LocalDate currdate = LocalDate.now();
+		System.out.println(currdate);
+		
+	}
+	
+
+}

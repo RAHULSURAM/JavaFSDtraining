@@ -1,0 +1,14 @@
+package com.iBanking.Functionalinterface;
+
+public class LoanProcessorClient {
+	
+	
+	public static void main(String args[]) {
+	Loan loanlan = () -> {
+       return "jhbfyubgv";
+	}	;
+    loanlan.createLoan();		   
+
+	}
+}
+	

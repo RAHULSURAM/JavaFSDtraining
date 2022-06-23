@@ -1,0 +1,11 @@
+package com.iBanking.Functionalinterface;
+
+public class LoanCalculatorImpl {
+
+	String highAmountwithName(Loan a) {
+		return null
+	}
+}
+	
+	String highAmountwithGender(Loan b) {
+}
